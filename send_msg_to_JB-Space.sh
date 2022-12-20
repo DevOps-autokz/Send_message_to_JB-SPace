@@ -1,6 +1,6 @@
 #!/bin/bash
 # Source Space URL and token from .env file:
-. $HOME/scripts/JB_Space/.env
+. .env
 # PROVIDE YOUR COMPANY'S SPACE URL ADDRESS:
 #space_url={your_space_url}
 
